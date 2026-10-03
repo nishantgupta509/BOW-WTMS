@@ -1,0 +1,6 @@
+{
+  "name": "BOW WTMS - Trip Booking Module",
+  "description": "Enterprise transport trip booking, vehicle dispatch, consignment validation, commercial calculations, detention tracking, and LR generation for BOW Logistics Pvt. Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
